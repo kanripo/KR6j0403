@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:47.011718
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:04
 #+TITLE: 文殊菩薩獻佛陀羅尼名烏蘇吒
 #+PROPERTY: CBETA_ID T20n1178
 #+PROPERTY: ID KR6j0403
@@ -24,9 +24,9 @@ No. 1178¶
 　無能覺之者
 　惟我能救拔¶
 　永斷生死本
-　普處寂滅樂
+　普處寂滅樂」
 #+END_VERSE
-」¶
+¶
 
 即說陀羅尼曰。¶
 
